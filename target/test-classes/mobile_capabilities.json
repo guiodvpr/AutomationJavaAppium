@@ -1,0 +1,9 @@
+{
+	"deviceName": "emulator-5554",
+	"platformName": "Android",
+	"platformVersion": "8.0",
+	"appPackage": "com.disney.wdpro.dlr",
+	"appActivity": "com.disney.wdpro.park.activities.SplashActivity",
+	"app": "C:\\Users\\jesusdavid.alvarez\\Documents\\TEST_AUTOMATION PROGRAM\\MOBILE_AUTOMATION\\Examen_Final\\disneyland-7-4.apk",
+	"automationName": "UiAutomator2"
+}
